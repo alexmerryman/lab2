@@ -21,4 +21,3 @@ int main() {
     cout << "Start with Exercise 1 (legal/illegal statements)" << endl;
     cout << "Then work on the exercises and code them up." << endl;
 }
-
